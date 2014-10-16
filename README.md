@@ -20,3 +20,7 @@ You can filter all the information by:
 start date / time
 ,end date / time
 ,keywords
+
+Check it out how to perform this
+
+http://milapbhojak.wordpress.com/2014/10/16/find-personal-details-via-twitter-using-tinfoleak/ 
